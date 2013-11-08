@@ -1,2 +1,4 @@
 timeit
 ======
+
+timed record interface
